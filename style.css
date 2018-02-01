@@ -1,0 +1,111 @@
+@import url("./components/avatar.css");
+@import url("./components/button.css");
+@import url("./components/card.css");
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  background-color: #fdfdfd;
+  font-size: 16px;
+  line-height: 1.6em;
+  margin: 30px auto;
+  align-content: center;
+}
+
+h1 {
+  color: #e18ea9;
+  font-size: 80px;
+  font-family: 'Amatic SC', cursive;
+  margin: 50px;
+}
+
+h2 {
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  text-shadow: 1px 1px 2px #e18ea9
+}
+
+h3 {
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+}
+
+h4 {
+  font-size: 30px;
+  font-family: 'Amatic SC', cursive;
+  color: white;
+  margin: 30px;
+}
+
+a {
+  color: #e18ea9;
+  text-decoration: none
+}
+
+  a:hover {
+    color: #c2e0ff;
+  }
+
+    a:active {
+      color: grey;
+    }
+
+li {
+    display: inline;
+    text-align: center;
+    padding-left: 0
+}
+
+p {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  text-shadow: 1px 1px 2px #black;
+  margin: 20px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0
+}
+
+.container {
+border-right:
+border-left
+
+}
+
+.text-center {
+  text-align: center;
+}
+
+.footer-icons i {
+  font-size: 70px;
+  margin: px;
+}
+
+.block {
+  background: #fff;
+  box-shadow: 1px 1px 3px rgba(0,0,0,.)
+  width: 430px;
+  height: 430px;
+  margin: 20px auto;
+  align-content: center;
+}
+  .block-bg {
+    background: url("images/kite_background.jpg") no-repeat center;
+    background-size: cover;
+  }
+
+      .block-pink-bg {
+      background: #e18ea9a8;
+      background-size: cover
+}
+
+        .block-white-bg {
+        background: #fff;
+        background-size: cover;
+      }
+

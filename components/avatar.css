@@ -1,0 +1,11 @@
+.avatar {
+  border-radius: 50%;
+  width: 100px;
+  position: relative;
+  top: -1px;
+  left: 530px;
+}
+
+.avatar-border {
+   border: 5px solid #ffc0cb9c
+}
